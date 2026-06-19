@@ -9,22 +9,46 @@
 | 卡志遠| s25101335 |
 | 陳文森| s25101338 |
 
-## Tech Stack
 
-* C#
-* SQL Server
-* Visual Studio 2022
+#Project Description
+A University Management System developed using C# Windows Forms and SQL Server.
 
-## Features
+The system manages:
 
-* Student Management
-* Course Management
-* Enrollment Management
-* Reports and Analytics
+- Students
+- Instructors
+- Departments
+- Courses
+- Enrollments
+- Schedules
 
-## How to Run
 
-1. Open the project in Visual Studio 2022.
-2. Run database/schema.sql in SQL Server.
-3. Update the connection string in App.config.
-4. Press F5 to run the application.
+#Technologies
+
+- C#
+- Windows Forms
+- SQL Server
+- Visual Studio 2022
+
+
+#Database
+
+Database schema is located in:
+
+database/schema.sql
+
+
+#Documentation
+
+Architecture:
+
+docs/architecture.md
+
+User Guide:
+
+docs/user_guide.md
+
+
+#Team
+
+DB2026 Team 10
