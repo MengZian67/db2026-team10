@@ -4,7 +4,10 @@
 
 | Name | Student ID |
 |------|------------|
-| Your Name | Your Student ID |
+| 孟子安 | s25101333 |
+| 范偉安 | s25101334 |
+| 卡志遠 | s25101335 |
+| 陳文森 | s25101338|
 
 ## Tech Stack
 
