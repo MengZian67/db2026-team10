@@ -1,13 +1,57 @@
-# System Architecture
+University Management System Architecture
 
-The University Management System is developed using:
+Overview
 
-- C# Windows Forms
-- SQL Server Database
-- ADO.NET
+The University Management System is a Windows Forms application developed using C# and SQL Server.
 
-Modules:
-- Student Management
-- Course Management
-- Enrollment Management
-- Reports and Analytics
+The system manages:
+
+- Students
+- Instructors
+- Departments
+- Courses
+- Enrollments
+- Class Schedules
+
+Technologies Used
+
+- C#
+- Windows Forms
+- SQL Server
+- Visual Studio
+
+System Components
+
+User Interface
+
+Forms used in the system:
+
+- LoginForm
+- StudentForm
+- InstructorForm
+- DepartmentForm
+- CourseForm
+- EnrollmentForm
+- ScheduleForm
+- ReportForm
+
+Database Layer
+
+The database contains tables such as:
+
+- student
+- instructor
+- department
+- course
+- section
+- classroom
+- enrollment
+
+Reports
+
+The system generates reports for:
+
+- Student Records
+- Course Information
+- Enrollment Information
+- Schedule Information
